@@ -30,10 +30,12 @@ El análisis busca identificar tendencias temporales, evaluar el impacto de la p
 
 ---
 
-## Estructura del Proyecto
+## Autor
 
-```text
-data/
-notebooks/
-images/
-README.md
+**Aldahir Alexis Perez Cordero**
+
+Data Analyst
+
+- LinkedIn: https://www.linkedin.com/in/aldahir-perez-cordero-178b51361/
+- GitHub: https://github.com/AlexisPerezCordero
+
